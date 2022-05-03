@@ -1,0 +1,4 @@
+SampleNber,Samplet1,Samplet2,SampleLabel
+1,128.383,428.383,Baseline
+2,428.418,458.418,Threat
+3,464.525,644.525,Positive_Emotion_High_Approach
